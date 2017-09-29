@@ -11,3 +11,6 @@ https://angular.io/guide/lifecycle-hooks
 And the Angular Material Components framework
 https://material.angular.io/
 * going to try and implement this into next weeks project
+
+Angular Router State && Snapshots
+https://vsavkin.com/angular-router-understanding-router-state-7b5b95a12eab
