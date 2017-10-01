@@ -1,6 +1,16 @@
 # angular_extended
-personal development day
 
+## Personal Development Day
+
+## Table of continents <a name="table-of-contents"></a>
+***
+* [Table of contents](#table-of-contents)
+* [Friday Morning](#friday-morning)
+* [Saturday Afternoon](#saturday-afternoon)
+* [Sunday Funday](#sunday-funday)
+
+
+## Friday morning <a name="friday-morning"></a>
 Spent the morning finishing NetNinja's Angular 2 tutorial, and this absolutely hilarious gentleman's video.
 
 https://www.youtube.com/watch?v=rOr1r1rSZQ8
@@ -35,15 +45,19 @@ Over the past two weeks I've been working on my personal brand and crafting my s
 
 Someone once told me the truth is easier to remember. It's just a different truth from the previous one. One is my past, the other is the present. I've gone to security meetups that are way over my head and had a meeting with a project manager at an IoT company after reaching out cold on LinkedIn.
 
+
+## Saturday Afternoon <a name="saturday-afternoon"></a>
 Met with team at Epicodus to hash out an outline and trello board for the upcoming week. Used BDD to create user stories. No code, only conceptual talk.
 
 
 * Read articles on Git branching and workflows as well as take Rithim School's module on Git to feel more comfortable and confident with the steps to take.
 
+
+## Sunday Funday <a name="sunday-funday"></a>
 * Erased this entire file by accident and overwrote it with multiple commits.
 
 * Was able to successfully restore state from a previous commit
 
 * Successfully added aliases to my local .gitconfig to streamline repetitive commands.
 
-* Added SSH key to my local machine and linked it with remote GitHub repository. No longer need to authenticate username/password for every push on my local computer. 
+* Added SSH key to my local machine and linked it with remote GitHub repository. No longer need to authenticate username/password for every push on my local computer.
