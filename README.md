@@ -22,12 +22,12 @@ I spent an abnormal amount of time on public transport making my way out to Hill
 I spend most of my free time doing HackReactor questions and complimenting Epicoder's curriculum with the coursework for the other program I do, Rithim School.
 
 
-Before I enrolled in Epicodus I went to tech meetups, called recruitors, and reached out to the one person I know from college who works as a software developer. I wanted to know what is this coding bootcamp? Is it a scam? It sounds too good to be true. Have you heard of Epicodus? Ever hired their graduates? 
+Before I enrolled in Epicodus I went to tech meetups, called recruitors, and reached out to the one person I know from college who works as a software developer. I wanted to know what is this coding bootcamp? Is it a scam? It sounds too good to be true. Have you heard of Epicodus? Ever hired their graduates?
 
-The overwhelming concensus? The graduates are a complete mixed bag. You get what you put in. It's a boot camp, it's not basic training. Boot camp doesnt' make you a marine, but you're a step closer. 
+The overwhelming concensus? The graduates are a complete mixed bag. You get what you put in. It's a boot camp, it's not basic training. Boot camp doesnt' make you a marine, but you're a step closer.
 
-Getting out what you put in means, to me, living and breathing the nerd life. Thankfully I really enjoy it. I had no idea I would. I didn't know what an array was in June. Now I can speak to the tradeoffs of traversing an ordered collection using an iterator versus indices. 
-    I feel good about the progress I've made in the past few months, but I'm at the point now where I'm getting the hint of just how much I don't know. That freaks me out. There are some seriously smart people in the industry, and I don't want to embarass myself in front of them. I have a unconventional background, not only for tech, but for most people my age. I struggle with how to represent my past on LinkedIn, resume, and in person. 
+Getting out what you put in means, to me, living and breathing the nerd life. Thankfully I really enjoy it. I had no idea I would. I didn't know what an array was in June. Now I can speak to the tradeoffs of traversing an ordered collection using an iterator versus indices.
+    I feel good about the progress I've made in the past few months, but I'm at the point now where I'm getting the hint of just how much I don't know. That freaks me out. There are some seriously smart people in the industry, and I don't want to embarass myself in front of them. I have a unconventional background, not only for tech, but for most people my age. I struggle with how to represent my past on LinkedIn, resume, and in person.
 
 I don't know anyone in this town and have never had a 'real job.' I've spent two of the last six years living overseas on three different continents. But people don't need to know any of that, and honestly it hasn't come up. They don't need to know I'm just a bartender.
 
@@ -35,7 +35,16 @@ Over the past two weeks I've been working on my personal brand and crafting my s
 
 Someone once told me the truth is easier to remember. It's just a different truth from the previous one. One is my past, the other is the present. I've gone to security meetups that are way over my head and had a meeting with a project manager at an IoT company after reaching out cold on LinkedIn.
 
-Met with team at Epicodus to hash out an outline and trello board for the upcoming week. Used BDD to create user stories. No code, only conceptual talk. 
+Met with team at Epicodus to hash out an outline and trello board for the upcoming week. Used BDD to create user stories. No code, only conceptual talk.
 
 
-Read articles on Git branching and workflows as well as take Rithim School's module on Git to feel more comfortable and confident with the steps to take.
+* Read articles on Git branching and workflows as well as take Rithim School's module on Git to feel more comfortable and confident with the steps to take.
+
+* Erased this entire file by accident and overwrote it with multiple commits.
+
+* Was able to successfully restore state from a previous commit
+
+* Added and authenticated a SSH key on my personal computer and GitHub account so no longer require my username and password for every push
+
+
+* Successfully added aliases to my local .gitconfig to streamline repetitive commands.
