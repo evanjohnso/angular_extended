@@ -44,7 +44,7 @@ Met with team at Epicodus to hash out an outline and trello board for the upcomi
 
 * Was able to successfully restore state from a previous commit
 
-* Added and authenticated a SSH key on my personal computer and GitHub account so no longer require my username and password for every push
+* Use SSH Keys when cloning repositories
 
 
 * Successfully added aliases to my local .gitconfig to streamline repetitive commands.
