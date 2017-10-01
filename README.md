@@ -1,10 +1,11 @@
 # angular_extended
 
-## Personal Development Day
+<br>
+
+## <p align="center">Personal Development Day</p>
 
 ## Table of continents <a name="table-of-contents"></a>
 ***
-* [Table of contents](#table-of-contents)
 * [Friday Morning](#friday-morning)
 * [Saturday Afternoon](#saturday-afternoon)
 * [Sunday Funday](#sunday-funday)
