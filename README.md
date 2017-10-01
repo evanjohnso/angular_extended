@@ -38,4 +38,4 @@ Someone once told me the truth is easier to remember. It's just a different trut
 Met with team at Epicodus to hash out an outline and trello board for the upcoming week. Used BDD to create user stories. No code, only conceptual talk. 
 
 
-
+Read articles on Git branching and workflows as well as take Rithim School's module on Git to feel more comfortable and confident with the steps to take.
