@@ -56,6 +56,8 @@ Met with team at Epicodus to hash out an outline and trello board for the upcomi
 
 * Added SSH key to my local machine and linked it with remote GitHub repository. No longer need to authenticate username/password for every push on my local computer.
 
-* Continue the quest to understand cryptocurrency and the blockchain
+* Worked 4 hours for my old boss and racked in the big bucks
+
+* Continued the neverending quest to understand cryptocurrency and the blockchain
 
 https://www.nytimes.com/2017/10/01/technology/what-is-ethereum.html?emc=eta1
