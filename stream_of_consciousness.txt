@@ -22,4 +22,6 @@ Someone once told me the truth is easier to remember. It's just a different trut
 
 I had some beers with a white hat last night and was blown away by everything he talked about. He is literal social engineering hacker, but companies pay him to hack their shit! It's crazy. It was so hard to play it cool, the beers helped.
 I explained my utter disdain for people copy and pasting code and not caring why. His response? Get used to it. Lots of developers do that.
-I talked about my love for breaking the code to find out why it's really working and how it allows me to solve other peoples problems despite having never made a finished product myself. "You've got the security mindset," he told me. To top it off, he said he would recommend me to his company. I don't know if he was serious, but it was great to hear.
+I talked about my love for breaking the code to find out why it's really working and how it allows me to solve other peoples problems despite having never made a finished product myself. "You've got the security mindset," he told me. To top it off, he said he would recommend me to his company! I don't know if he was serious, but it was great to hear.
+
+Sorry for the long blabber, my mind has been all over the place the last few weeks. This has been cathartic. Thanks for listening. There is wayyyyy too much to learn, but I'm excited for Android, the next few months at Epicodus, and the next few years to see where this new path in life takes me. I hope it all works out!
