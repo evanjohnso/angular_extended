@@ -1,0 +1,25 @@
+
+Before I enrolled in Epicodus I went to tech meet-ups, called recruiters, and reached out to the one person I know from college who works as a software developer. I wanted to know what is this coding bootcamp? Is it a scam? It sounds too good to be true. Have you heard of Epicodus? Ever hired their graduates?
+
+The overwhelming consensus? The graduates are a complete mixed bag. You get what you put in. It's a boot camp, it's not basic training. Boot camp doesn't make you a marine, but you're a step closer.
+
+Getting out what you put in means, to me, living and breathing the nerd life. Thankfully I absolutely love it. I had no idea I would. I didn't know what an array was in June. Now I can speak to the efficiency and scalability of traversing an ordered collection using an iterator versus indices.
+
+I feel good about the progress I've made in the past few months, but I'm at the point now where I'm getting the hint of just how much I don't know. That freaks me out. There are some seriously smart people in the industry, and I don't want to embarrass myself in front of them. I have a unconventional background, not only for tech, but for most people my age. I struggle with how to represent my past on LinkedIn, resume, and in person.
+
+I don't know anyone in this town and have never had a 'real job.' I haven't lived anywhere longer than a year since I was in college. I've spent two of the last six years living overseas on three different continents. But people don't need to know any of that, and honestly it hasn't come up. They don't need to know I'm just a bartender.
+
+Over the past two weeks I've been working on my personal brand and crafting my story in a confident way. I'm really interested in information security and what companies are doing to manage the responsibility of user information, especially as more devices are connected to the Internet in increasingly convenient ways, often at the cost of security. Before going back for a masters, I want to work as programmer to understand the nuts and bolts of the development process.
+
+I consolidated it down to two lines on my LinkedIn:
+```console
+Amateur world traveler with a passion for IT Security. I began programming in order to play a role in the industry that
+is shaping our world.
+```
+Seeking honest opinion on it!!!
+
+Someone once told me the truth is easier to remember. It's just a different truth from the previous one. One is my past, the other is the present. I've gone to security meet-ups that are way over my head and had a meeting with a project manager at an IoT company after reaching out cold on LinkedIn.
+
+I had some beers with a white hat last night and was blown away by everything he talked about. He is literal social engineering hacker, but companies pay him to hack their shit! It's crazy. It was so hard to play it cool, the beers helped.
+I explained my utter disdain for people copy and pasting code and not caring why. His response? Get used to it. Lots of developers do that.
+I talked about my love for breaking the code to find out why it's really working and how it allows me to solve other peoples problems despite having never made a finished product myself. "You've got the security mindset," he told me. To top it off, he said he would recommend me to his company. I don't know if he was serious, but it was great to hear.
